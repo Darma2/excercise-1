@@ -38,6 +38,7 @@ nav {
   width: calc(100% - (24px * 2));
   background-color: white;
   border-radius: 10px;
+  max-width: 575px;
 }
 
 .card-content img {
